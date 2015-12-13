@@ -9,7 +9,7 @@ You can find Release folder with executable in Release.zip, examples of BitTorre
 Do the following to view the tool in practice: 
 
 1. Create fake directory AnyDeviceLetter:\Users\AnyUserName\AppData\Roaming\BitTorrent 
-2. Copy BitTorrent files from Files.zip into created fake directory 
+2. Copy all BitTorrent files from Files.zip into created fake directory 
 3. Extract Realise.zip 
 4. Run as Administrator Command prompt
 5. Change Command Promt working directory to extracted Release directory 
