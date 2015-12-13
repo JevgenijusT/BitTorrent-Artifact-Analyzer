@@ -14,8 +14,13 @@ Do the following to view the tool in practice:
 4. Run as Administrator Command Prompt
 5. Change Command Promt working directory to the extracted Release directory 
 6. Run the tool from command line:
-7. Usage:BitTorrent-Artifact-Analyzer [Device to analyze] [Path to save XML report] [XMLreport file name] [Demonstration Mode]
-8. Usage example:BitTorrent-Artifact-Analyzer W: C:\Temp Report.xml 1
+7. Usage:
+ 
+BitTorrent-Artifact-Analyzer [Device to analyze] [Path to save XML report] [XMLreport file name] [Demonstration Mode]
+
+8. Usage example: 
+
+BitTorrent-Artifact-Analyzer W: C:\Temp Report.xml 1
 
 Copyright (©) 2014-2016 Kaunas University of Technology. All rights reserved.
 The program has been developed out partially within the project “Lithuanian Cyber-crime Centre of Excellence for Training, Research and Education”, Grant Agreement No HOME/2013/ISEC/AG/INT/4000005176, co-funded by the Prevention of and Fight against Crime Programme of the European Union.
