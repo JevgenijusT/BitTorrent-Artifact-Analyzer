@@ -10,9 +10,9 @@ Do the following to view the tool in practice:
 
 1. Create fake directory AnyDeviceLetter:\Users\AnyUserName\AppData\Roaming\BitTorrent 
 2. Copy all BitTorrent files from Files.zip into created fake directory 
-3. Extract Realise.zip 
-4. Run as Administrator Command prompt
-5. Change Command Promt working directory to extracted Release directory 
+3. Extract Realease.zip 
+4. Run as Administrator Command Prompt
+5. Change Command Promt working directory to the extracted Release directory 
 6. Run the tool from command line:
 7. Usage:BitTorrent-Artifact-Analyzer [Device to analyze] [Path to save XML report] [XMLreport file name] [Demonstration Mode]
 8. Usage example:BitTorrent-Artifact-Analyzer W: C:\Temp Report.xml 1
