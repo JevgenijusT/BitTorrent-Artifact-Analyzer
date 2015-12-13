@@ -18,7 +18,7 @@ Do the following to view the tool in practice:
  
 BitTorrent-Artifact-Analyzer [Device to analyze] [Path to save XML report] [XMLreport file name] [Demonstration Mode]
 
-8. Usage example: 
+Usage example: 
 
 BitTorrent-Artifact-Analyzer W: C:\Temp Report.xml 1
 
