@@ -6,7 +6,7 @@ Usage:
 BitTorrent-Artifact-Analyzer <Device to analyze> <Path to save XML report> <XML report file name> <Demonstration Mode>
 Usage example:
 BitTorrent-Artifact-Analyzer W: C:\Temp Report.xml 0
-You can find Release folder with executable in Release.zip, examples of BitTorrent files to analyze in Files folder in BtFiles.zip, and example of the XML report in BtaaReport.xml. 
+You can find Release folder with executable in Release.zip, examples of BitTorrent files to analyze in Files folder in BtFiles.zip, and example of the XML report in BtaaReport.zip. 
 
 Copyright (©) 2014-2016 Kaunas University of Technology. All rights reserved.
 The program has been developed out partially within the project “Lithuanian Cyber-crime Centre of Excellence for Training, Research and Education”, Grant Agreement No HOME/2013/ISEC/AG/INT/4000005176, co-funded by the Prevention of and Fight against Crime Programme of the European Union.
