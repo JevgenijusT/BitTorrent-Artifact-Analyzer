@@ -7,6 +7,11 @@ BitTorrent-Artifact-Analyzer <Device to analyze> <Path to save XML report> <XML 
 Usage example:
 BitTorrent-Artifact-Analyzer W: C:\Temp Report.xml 0
 You can find Release folder with executable in Release.zip, examples of BitTorrent files to analyze in Files folder in Files.zip, and example of the XML report in BtaaReport.zip. 
+Do the following to view the tool in practice: 1. Create fake directory AnyDeviceLetter:\Users\AnyUserName\AppData\Roaming\BitTorrent 2. Copy BitTorrent files from Files.zip into created fake directory 3. Extract Realise.zip 4. Run as Administrator Command prompt 5. Change Command Promt working directory to extracted Release directory 6. Run the tool from command line 
+Usage:
+BitTorrent-Artifact-Analyzer <Device to analyze> <Path to save XML report> <XMLreport file name> <Demonstration Mode>
+Usage example:
+BitTorrent-Artifact-Analyzer W: C:\Temp Report.xml 1
 
 Copyright (©) 2014-2016 Kaunas University of Technology. All rights reserved.
 The program has been developed out partially within the project “Lithuanian Cyber-crime Centre of Excellence for Training, Research and Education”, Grant Agreement No HOME/2013/ISEC/AG/INT/4000005176, co-funded by the Prevention of and Fight against Crime Programme of the European Union.
