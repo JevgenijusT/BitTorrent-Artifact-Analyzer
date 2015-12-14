@@ -4,7 +4,7 @@ for the files: *.torrent, dht.dat, re-sume.dat, and settings.dat. The files are 
 
 The tool is implemented as a command line utility having four parameters: the letter of the disc to search for, the full path where to place the report file, the report file name with extension xml and demonstration mode value. Demonstration mode value is used for tool demonstration purpose and reduce the time to analyze large number of IP addresses. When working in demonstration mode (value of the parameter not zero) the tool analyze only a few nodes and peers IP addresses in files dht.dat and resume.dat accordingly.
 
-You can find Release folder with executable in Release.zip, examples of BitTorrent files to analyze in Files folder in Files.zip, example of the XML report in BtaaReport.zip and Visual Studio 2013 solution in  VS2013 Solution directory.
+You can find Release folder with executable in Release.zip, examples of BitTorrent files to analyze in Files folder in Files.zip, example of the XML report in BtaaReport.zip and Visual Studio 2013 solution in VS2013 Solution/BitTorrent-Artifact-Analyzer directory.
 
 Do the following to view the tool in practice: 
 
