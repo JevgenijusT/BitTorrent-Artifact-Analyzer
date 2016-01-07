@@ -17,9 +17,7 @@ You can find:
 To use the tool perform the following actions: 
 
 1.	Create the directory AnyDeviceLetter:\Users\AnyUserName\AppData\Roaming\BitTorrent.
-2.	
 2.	Copy all BitTorrent files from Files.zip into created directory.
-3.	
 3.	Extract Realease.zip.
 4.	
 4.	Run Command Prompt in Administrator mode.
